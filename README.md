@@ -11,3 +11,8 @@ A little information about Pandas (from what I have learned till now):
 *Series*: Series is same as 1D array of NumPy, the only difference is that it is labelled.
 
 *DataFrame*: It is a labelled 2-Dimensional array. It looks just like a table.
+
+
+
+
+With love: Anshika Singh ❤️
