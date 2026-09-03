@@ -15,4 +15,4 @@ A little information about Pandas (from what I have learned till now):
 
 
 
-With love: Anshika Singh ❤️
+With love ~ Anshika Singh ❤️
