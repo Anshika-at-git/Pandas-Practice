@@ -12,7 +12,4 @@ A little information about Pandas (from what I have learned till now):
 
 *DataFrame*: It is a labelled 2-Dimensional array. It looks just like a table.
 
-
-
-
 With love ~ Anshika Singh ❤️
