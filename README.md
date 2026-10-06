@@ -12,4 +12,11 @@ A little information about Pandas (from what I have learned till now):
 
 *DataFrame*: It is a labelled 2-Dimensional array. It looks just like a table.
 
+*Installing Pandas on the System*
+-> !pip install pandas
+
+*Using the pandas library*
+-> import pandas as pd
+
+
 With love ~ Anshika Singh ❤️
