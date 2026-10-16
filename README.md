@@ -18,4 +18,23 @@ A little information about Pandas (from what I have learned till now):
 *Using the pandas library*
 -> import pandas as pd
 
+*Example :* 
+info = { "Name" : ["Radha", "Rahul", "Amit"],
+         "CGPA" : [9.00, 8.96, 8.66]
+        }
+df = pd.DataFrame(info)
+print(df)
+
+*Output*
+  Name      CGPA
+0 Radha     9.00
+1 Rahul     8.96
+2 Amit      8.66
+
+[0,1,2] = These are labels of the DataFrame.
+
+By default, these labels are started from 0, we but can change it according to our need.
+
+SQL Tables can also be imported as a DataFrame in Pandas.
+
 With love ~ Anshika Singh ❤️
