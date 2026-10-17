@@ -37,4 +37,6 @@ By default, these labels are started from 0, we but can change it according to o
 
 SQL Tables can also be imported as a DataFrame in Pandas.
 
+*Series :*
+
 With love ~ Anshika Singh ❤️
