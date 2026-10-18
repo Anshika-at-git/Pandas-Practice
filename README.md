@@ -37,6 +37,20 @@ By default, these labels are started from 0, we but can change it according to o
 
 SQL Tables can also be imported as a DataFrame in Pandas.
 
-*Series :*
+*Series :* It is a 1D labelled array.
+
+*Creating a series in Pandas:*
+var_name = pd.Series([val1, val2, val3,...])
+print(var_name)
+
+=> Label is different than an index:
+   Label = Used to access series, it is a named index
+   Index = Also used to access series but defines positions
+
+*Properties of Series*
+1. Homogeneous - Same data can be stored
+2. Vectorized Operations - Performing operations on entire series at once without explicitly using python loops.
+3. Hnadles missing values with NaN.
+4. Contains mutable values but immutable size.
 
 With love ~ Anshika Singh ❤️
