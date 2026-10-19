@@ -43,7 +43,7 @@ SQL Tables can also be imported as a DataFrame in Pandas.
 var_name = pd.Series([val1, val2, val3,...])
 print(var_name)
 
-=> Label is different than an index:
+-> Label is different than an index:
    Label = Used to access series, it is a named index
    Index = Also used to access series but defines positions
 
