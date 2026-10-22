@@ -53,4 +53,11 @@ print(var_name)
 3. Hnadles missing values with NaN.
 4. Contains mutable values but immutable size.
 
+DataFrame = It is a 2-D labeled array.
+* Here every column is an individual series with a particular label value before it.
+
+*Methods of creating a DataFrame:*
+1. Dictionary of lists
+2. List of lists
+3. np Arrays
 With love ~ Anshika Singh ❤️
