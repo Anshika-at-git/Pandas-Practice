@@ -60,4 +60,5 @@ DataFrame = It is a 2-D labeled array.
 1. Dictionary of lists
 2. List of lists
 3. np Arrays
+
 With love ~ Anshika Singh ❤️
