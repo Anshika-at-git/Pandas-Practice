@@ -25,10 +25,11 @@ df = pd.DataFrame(info)
 print(df)
 
 *Output*
-  Name      CGPA
-0 Radha     9.00
-1 Rahul     8.96
-2 Amit      8.66
+| | Name | CGPA |
+|---|---|---|
+| 0 |Radha | 9.00 |
+| 1 | Rahul | 8.96 |
+| 2 | Amit | 8.66 |
 
 [0,1,2] = These are labels of the DataFrame.
 
